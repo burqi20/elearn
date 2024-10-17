@@ -1,0 +1,12 @@
+@startuml
+Participant [
+    Title
+    ----
+    ""SubTitle""
+    "sub"
+]
+
+participant Bob
+
+Participant -> Bob
+@enduml
